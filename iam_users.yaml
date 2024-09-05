@@ -1,0 +1,11 @@
+users:
+  - username: user1
+    groups:
+      - Admins
+      - Developers
+  - username: user2
+    groups:
+      - Viewers
+  - username: user3
+    groups:
+      - Developers
